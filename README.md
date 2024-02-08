@@ -5,13 +5,11 @@
 Sequence alignment and visualization tool designed to enhance understanding of sequence alignment algorithms, such as the Needleman-Wunsch algorithm. Through detailed matrix plot visualizations with arrows illustrating the path of different alignments, users can gain insights into how these algorithms score and identify optimal alignments between two sequences.
 
 ## Installation
-### GitHub
-To install the `SeqAlignR` package, simply run:
+To use the `SeqAlignR` package, simply run:
 ```R
-devtools::install_github("leonnorblad/SeqAlignR")
+install.packages("SeqAlignR")
+library(SeqAlignR)
 ```
-### CRAN
-Not avalible yet. Status of `SeqAlignR` can be monitored from the [cransays dashboard](https://r-hub.github.io/cransays/articles/dashboard.html)
 
 ## Examples
 Define the two sequences to align.
