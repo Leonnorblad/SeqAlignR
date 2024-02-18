@@ -1,5 +1,6 @@
 
 [![R-CMD-check](https://github.com/Leonnorblad/SeqAlignR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Leonnorblad/SeqAlignR/actions/workflows/R-CMD-check.yaml)
+[![](https://cranlogs.r-pkg.org/badges/SeqAlignR)](https://cran.r-project.org/package=SeqAlignR)
 
 # SeqAlignR - Sequence Alignment and Visualization Tool
 Sequence alignment and visualization tool designed to enhance understanding of sequence alignment algorithms, such as the Needleman-Wunsch algorithm. Through detailed matrix plot visualizations with arrows illustrating the path of different alignments, users can gain insights into how these algorithms score and identify optimal alignments between two sequences.
